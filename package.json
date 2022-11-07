@@ -12,7 +12,6 @@
     "@polymer/iron-overlay-behavior": "3.0.3",
     "@polymer/iron-resizable-behavior": "3.0.1",
     "@polymer/iron-scroll-target-behavior": "3.0.1",
-    "@polymer/paper-slider": "^3.0.1",
     "@polymer/polymer": "3.2.0",
     "@vaadin/vaadin-accordion": "1.2.0",
     "@vaadin/vaadin-app-layout": "2.2.0",
@@ -65,6 +64,7 @@
     "@webcomponents/shadycss": "1.8.0",
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "construct-style-sheets-polyfill": "3.0.4",
+    "daypilot-pro-javascript": "https://npm.daypilot.org/daypilot-pro-javascript/trial/2022.4.5457.tar.gz",
     "lit-element": "2.5.1",
     "lit-html": "1.4.1"
   },
@@ -104,7 +104,6 @@
       "@polymer/iron-overlay-behavior": "3.0.3",
       "@polymer/iron-resizable-behavior": "3.0.1",
       "@polymer/iron-scroll-target-behavior": "3.0.1",
-      "@polymer/paper-slider": "^3.0.1",
       "@polymer/polymer": "3.2.0",
       "@vaadin/vaadin-accordion": "1.2.0",
       "@vaadin/vaadin-app-layout": "2.2.0",
@@ -180,6 +179,6 @@
       "webpack-dev-server": "3.11.0",
       "webpack-merge": "4.2.2"
     },
-    "hash": "8df1cc77901f3bbae26986535e5b596c03df9228cd6dc695c76d6b28e9e47e27"
+    "hash": "525bc3dd5fa065bb0c14cf07e0e947f8b3ce4b90147b84dc2bea2252ce53bad9"
   }
 }

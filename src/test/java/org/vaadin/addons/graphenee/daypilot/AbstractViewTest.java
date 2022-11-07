@@ -1,4 +1,4 @@
-package org.vaadin.artur.paperslider;
+package org.vaadin.addons.graphenee.daypilot;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Before;

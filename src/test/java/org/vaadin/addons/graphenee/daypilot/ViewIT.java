@@ -1,4 +1,4 @@
-package org.vaadin.artur.paperslider;
+package org.vaadin.addons.graphenee.daypilot;
 
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,6 @@
-package org.vaadin.artur.paperslider;
+package org.vaadin.addons.graphenee.daypilot;
+
+import org.vaadin.addons.graphenee.daypilot.GxDaypilot;
 
 import com.vaadin.flow.component.html.Div;
 import com.vaadin.flow.router.Route;
@@ -7,7 +9,7 @@ import com.vaadin.flow.router.Route;
 public class View extends Div {
 
     public View() {
-        PaperSlider paperSlider = new PaperSlider();
+        GxDaypilot paperSlider = new GxDaypilot();
         add(paperSlider);
     }
 }
